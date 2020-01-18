@@ -316,6 +316,7 @@ historyScrollBarBgOver: #517c41bc; // scroll bar current rectangle with mouse ov
 historyScrollBg: #517c414c; // scroll bar background (adjusted)
 historyScrollBgOver: #517c416b; // scroll bar background with mouse over the scroll bar (adjusted)
 
+msgSeparator: #26283a; // inbox message background
 msgInBg: windowBg; // inbox message background
 msgInBgSelected: #c2dcf2; // inbox selected message background (and background of selected text in those messages)
 msgOutBg: #effdde; // outbox message background

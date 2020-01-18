@@ -96,9 +96,10 @@ msgServicePhotoWidth: 100px;
 msgDateFont: font(13px);
 msgMinWidth: 160px;
 msgPhotoSize: 33px;
+msgPhotoOffset: 6px;
 msgPhotoSkip: 40px;
-msgPadding: margins(13px, 7px, 13px, 8px);
-msgMargin: margins(16px, 6px, 56px, 2px);
+msgPadding: margins(13px, 3px, 13px, 3px);
+msgMargin: margins(16px, 6px, 56px, 0px);
 msgMarginTopAttached: 1px;
 msgLnkPadding: 2px; // for media open / save links
 msgShadow: 2px;
@@ -111,7 +112,7 @@ msgServicePadding: margins(12px, 3px, 12px, 4px);
 msgServiceMargin: margins(10px, 10px, 10px, 2px);
 
 msgDateSpace: 12px;
-msgDateDelta: point(2px, 5px);
+msgDateDelta: point(2px, 0px);
 
 msgDateImgDelta: 4px;
 msgDateImgPadding: point(8px, 2px);
